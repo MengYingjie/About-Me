@@ -8,3 +8,5 @@
 
 [3. eclipse写入mysql出现乱码](http://www.mengyingjie.com/archives/4/)
 
+[4. 阿里云使用xshell登陆时密码框为灰色](http://www.mengyingjie.com/archives/6/)
+
