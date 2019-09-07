@@ -10,6 +10,8 @@
   
   - [不加项目名或8080端口号，访问tomcat上的项目](http://www.mengyingjie.com/archives/5/)
   
+  - [在Windows上下载安装及使用xshell](http://www.mengyingjie.com/archives/7/)
+  
 - 小技巧
   - [android-studio连接雷电模拟器-【AS-模拟器】](http://www.mengyingjie.com/archives/19/)
   
