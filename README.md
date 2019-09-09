@@ -1,18 +1,14 @@
-[⭐个人网站⭐](http://www.mengyingjie.com/)
+[⭐我的网站：www.mengyingjie.com⭐](http://www.mengyingjie.com/)
 
-### 目录
-- 服务器
-  - [Linux-命令之删除命令](http://www.mengyingjie.com/archives/2/)
-  
-  - [eclipse写入mysql出现乱码](http://www.mengyingjie.com/archives/4/)
-  
-  - [阿里云使用xshell登陆时密码框为灰色](http://www.mengyingjie.com/archives/6/)
-  
-  - [不加项目名或8080端口号，访问tomcat上的项目](http://www.mengyingjie.com/archives/5/)
-  
-  - [在Windows上下载安装及使用xshell](http://www.mengyingjie.com/archives/7/)
-  
-- 小技巧
-  - [android-studio连接雷电模拟器-【AS-模拟器】](http://www.mengyingjie.com/archives/19/)
+QQ ：781378815
+
+[· 简书 ·](https://www.jianshu.com/u/c045e778d673)  [· 掘金 ·](https://juejin.im/user/5d6d5e17f265da03a1487448) [· 思否 ·](https://segmentfault.com/u/mengyingjie/articles) 
+
+[· GitHub ·](https://github.com/MengYingjie) [·CSDN·](https://blog.csdn.net/qq_36360113) [· oschina ·](https://my.oschina.net/u/4204146)
+
+
+[· 微博 ·](https://weibo.com/5172374413/profile?rightmod=1&wvr=6&mod=personinfo/) [· 豆瓣 ·](https://www.douban.com/people/185977129/)    [· 知乎 ·](https://www.zhihu.com/people/meng.yingjie/activities) 
+
+[· Instagram ·](https://www.instagram.com/meng.yingjie/)  [· Facebook ·](https://www.facebook.com/myj.mengyingjie)   [· Twitter ·](https://twitter.com/MengYingjie) 
   
 
